@@ -320,21 +320,6 @@ Throughout the app, you'll see:
 
 ---
 
-## 🎉 Credits
-
-**Mission Commander:** Your Name
-**Operation:** DISCO DISASTER
-**Year:** 2025
-**Status:** ACTIVE
-
----
-
-## 📄 License
-
-This project is part of the global effort to combat the Great Disco Glitch.
-All agents are authorized to use and modify this code.
-
----
 
 ## 🕺 Let's Save the Mirrors! 🕺
 

@@ -182,6 +182,3 @@ Tasks1/
 - Admin dashboard
 - Persistent database (MySQL/PostgreSQL)
 
-## License
-
-This project is for educational purposes.

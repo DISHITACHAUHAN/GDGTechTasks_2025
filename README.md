@@ -4,7 +4,7 @@ This repository contains solutions for Task 1 (Room Booking System) and Task 2 (
 
 ## 📋 Table of Contents
 - [Task 1: Room Booking System](#task-1-room-booking-system)
-- [Task 2: The Groove Gallery](#task-2-the-groove-gallery)
+- [Task 3: The Groove Gallery](#task-2-the-groove-gallery)
 
 ---
 
@@ -104,7 +104,7 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## 🕺 Task 2: The Groove Gallery
+## 🕺 Task 3: The Groove Gallery
 
 A disco-themed video upload application to combat the "Great Disco Glitch of 2025" with JWT authentication and a retro-futuristic aesthetic.
 
@@ -311,18 +311,10 @@ server.port=8080
 ## 📝 Notes
 
 - **Task 1** uses H2 in-memory database (data resets on restart)
-- **Task 2** requires PostgreSQL database setup
+- **Task 3** requires PostgreSQL database setup
 - Both projects use CORS configuration for `http://localhost:5173`
 - Video files in Task 2 are stored in `uploads/videos` directory
 
----
 
-## 🤝 Contributing
-
-This is a university project repository. For questions or issues, please contact the repository maintainer.
-
----
-
-## 📄 License
 
 This project is part of GDG Tech Tasks 2025.
